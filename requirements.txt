@@ -1,4 +1,5 @@
 jupyter
+jupyter-book
 ipykernel
 networkx
 matplotlib
