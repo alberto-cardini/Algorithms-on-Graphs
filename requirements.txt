@@ -1,0 +1,6 @@
+jupyter
+ipykernel
+networkx
+matplotlib
+plotly
+pydot
