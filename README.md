@@ -5,4 +5,6 @@ It contains implementations of the most important algorithms in Python, along wi
 ## Graph Representations
 
 ## List of Algorithms
-- [Depth First Search (DFS)](Docs/Depth-First.md)
+
+### Search Algorithms
+- [Best First Search](Docs/Best-First.md)
