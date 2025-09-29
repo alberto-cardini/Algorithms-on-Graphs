@@ -1,0 +1,30 @@
+# Titolo del libro (puoi cambiarlo)
+title: "Algorithms on Graphs"
+author: "Alberto Cardini"
+
+# Impostazioni HTML
+html:
+  # Tema molto semplice
+  theme: pydata_sphinx_theme
+
+  # Nessuna opzione extra (sidebar, repo button ecc.)
+  theme_options:
+    collapse_navigation       : false
+    sticky_navigation         : false
+    navigation_depth          : 0
+    show_relbar_bottom        : false
+    use_next_prev_buttons     : false
+    use_edit_page_button      : false
+
+  # Favicon e logo disabilitati
+  logo: ""
+  favicon: ""
+
+# Abilita solo Markdown/Notebook
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - deflist
+    - dollarmath
+    - linkify
+    - substitution
